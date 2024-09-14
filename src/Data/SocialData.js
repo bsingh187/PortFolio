@@ -1,6 +1,6 @@
-const githubLink="https://github.com/sajiddev207";
+const githubLink="https://github.com/bsingh187";
 const instaLink="https://instagram.com/killer._abhi";
-const linkedInLink="http://linkedin.com/in/sajiddev207/";
+const linkedInLink="https://www.linkedin.com/in/bhagwan-singh-79793b289/";
 const twitterLink="https://twitter.com/ABHIDK0914";
 const emailLink="mailto:dk9554654249@gmail.com";
 

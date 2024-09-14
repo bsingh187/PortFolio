@@ -1,43 +1,43 @@
 const languagesDone = [
     {
-        name: 'Node Js',
+        name: 'React Js',
         percentDone: 95
     },
     {
-        name: 'React Js',
-        percentDone: 80
-    },
-    {
-        name: 'Express js',
+        name: 'Redux Toolkit',
         percentDone: 90
     },
     {
-        name: 'Mongo db',
-        percentDone: 80
-    },
-    {
-        name: 'SQL',
-        percentDone: 85
-    },
-    {
-        name: 'Postgresql',
-        percentDone: 79
+        name: 'Javascript',
+        percentDone: 95
     },
     {
         name: 'Typescript',
-        percentDone: 90
+        percentDone: 85
+    },
+    {
+        name: 'Bootstrap',
+        percentDone: 85
+    },
+    {
+        name: 'Material UI',
+        percentDone: 80
+    },
+    {
+        name: 'HTML/CSS',
+        percentDone: 79
     }
 ]
 const EducationData = {
-    collegeName: "Indira Gandhi National open University",
-    courseName: "BCA and MCA in Information Technology and Computer Applications",
-    couseStartYear: "2017",
+    collegeName: "Pandit Deendyal Upadhyaya University Sikar",
+    courseName: "B.A. and pursuing M.A. in History and Geography",
+    couseStartYear: "2021",
     courseEndYear: "2023",
     "details": [
-        "I completed my BCA (Bachelor of Computer Applications) from 2017 to 2020 and my MCA (Master of Computer Applications) from 2021 to 2023 with a good academic record.",
-        "I have studied software engineering subjects like Data Structures, Algorithms, DBMS, OS, COA, AI, etc.",
+        "I completed my B.A. (Bachelor of Arts) in Geography and History from 2017 to 2020 with a strong academic record.",
+        "I have studied various subjects such as human and physical geography, world history, and regional studies.",
         "Additionally, I have completed courses on Deep Learning, Data Science, Cloud Computing, and MERN Stack Development.",
-        "My technical expertise includes Node.js, React.js, Express.js, MongoDB, SQL, PostgreSQL, and TypeScript."
+        "I have also learned frontend software skills like React.js, JavaScript, TypeScript, HTML, CSS, Bootstrap, Material UI, jQuery, Redux, and Redux Toolkit."
     ],
     codingStatus: languagesDone
 }

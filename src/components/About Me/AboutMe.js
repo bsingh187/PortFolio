@@ -7,7 +7,7 @@ import Button from "../UI/Button";
 import GetInTouch from '../Get In Touch/GetInTouch';
 import { useSelector } from 'react-redux';
 
-import ImageUrl from "../../Data/dp.jpeg";
+import ImageUrl from "../../Data/Professional_Image.jpeg";
 
 const AboutMe = () => {
 
